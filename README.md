@@ -1,6 +1,6 @@
 # SWEA Expert Academy
 
-![](README.assets/주석 2020-07-30 131734.png)
+![](https://github.com/likelionSungGuk/SWEA/blob/master/README.assets/%EC%A3%BC%EC%84%9D%202020-07-30%20131734.png?raw=true)
 
 삼성 SW Expert Academy의 문제들에 대한 해답과 코드해설을 담았습니다.
 
